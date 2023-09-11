@@ -1,0 +1,22 @@
+build/default/production/UserConsole.o:  \
+UserConsole.c  \
+userConsole.h  \
+ ../Common/circbuffer.h  \
+../Common/Compiler.h  \
+../Common/HardwareProfile.h  \
+ ../Common/uart2.h  \
+timekeeper.h  \
+../Common/HardwareProfile.h  \
+ ../Common/TaskScheduler.h  \
+../Common/Delay.h  \
+ValveMotionControl.h  \
+ LEDFade.h  \
+DeviceControl.h  \
+FanControl.h  \
+../Common/Bootloader.h  \
+Config.h  \
+ ../Common/Compiler.h  \
+TimeKeeper.h  \
+../Common/M24512.h  \
+ ../Common/GenericTypeDefs.h  \
+sht3x.h 

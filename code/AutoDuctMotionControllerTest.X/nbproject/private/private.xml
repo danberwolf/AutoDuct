@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/ValveMotionControl.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/LEDFade.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/AutoDuctTestMain.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/Common/BootLoader.h</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/BTComCallbacksApp.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/LEDFade.h</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/UserConsole.h</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/Common/CircBuffer.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/UserConsole.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/Config.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/Common/BTCom.h</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/Common/BTCom.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/DeviceControl.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/FanControl.h</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/FanControl.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/AutoDuctMotionControllerTest.X/TimeKeeper.c</file>
+            <file>file:/C:/Users/danie/OneDrive/Projekte/AutoDuct/Firmware/Common/Delay.c</file>
+        </group>
+    </open-files>
+</project-private>

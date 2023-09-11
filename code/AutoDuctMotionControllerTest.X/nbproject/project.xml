@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>AutoDuctMotionControllerTest</name>
+            <name>SpecNodeMicroTest</name>
+            <name>I2CSlaveTest</name>
+            <creation-uuid>5c25aae7-cf5c-434d-8de8-6deaae08e78a</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>../../../microchip_solutions_v2013-06-15/Microchip/MDD File System</sourceRootElem>
+                <sourceRootElem>../../PIC32 Bootloader/Linker Scripts</sourceRootElem>
+                <sourceRootElem>../AutoDuctBootloader.X/Linker Scripts</sourceRootElem>
+                <sourceRootElem>../Common</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
