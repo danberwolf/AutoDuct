@@ -37,7 +37,6 @@ Depending on the selected operating mode, the device will perform the following 
 A custom bootloader was developed which enables over-the-air firmware updates via the Bluetooth low energy interface. 
 
 # Project Video
-![](media/OpenCloseGIF300x300_cropped.gif)
 [![Watch the video](media/Youtube_prev.png)](https://youtu.be/yPaX_Ez_lKY)
 
 
