@@ -10,6 +10,7 @@ At the heart of this device is a mostly 3D-printed linear actuator which is used
 Integrated into the encapsulated actuator unit two hall effect switches on a separate ring-shaped PCB are used to detect the end stop positions (open/close) of the shutter mechanism in combination with tiny magnets. The axial position of these magnets can be adjusted to compensate for mechanical tolerances in the assembly.
 
 Note: the actuator unit does not use any additional (ball) bearings to keep the BOM simple and material cost low. Axial and radial forces are solely absorbed by the 3D-printed linear guides and the integrated bearings of the geared motor. This could potentially reduce longevity of the assembly but has not been an issue while testing multiple units over more than a year now. Use of silicone grease is highly recommended.
+![](media/OpenCloseGIF300x300_cropped.gif)
 
 # Electronics
 
@@ -35,13 +36,13 @@ Depending on the selected operating mode, the device will perform the following 
 
 A custom bootloader was developed which enables over-the-air firmware updates via the Bluetooth low energy interface. 
 
+# Project Video
+[![Watch the video](media/Youtube_prev.png)](https://youtu.be/yPaX_Ez_lKY)
 
 
 
 
 
 
-
-![](media/OpenCloseGIF300x300_cropped.gif)
 
 
